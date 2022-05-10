@@ -1,2 +1,2 @@
 # hello_c
-how to write hello world in C
+how to write hello world in C/C++

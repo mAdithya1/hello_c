@@ -1,3 +1,3 @@
 # Hello World
 how to write hello world in C/C++  
-![C_programming](![image](https://user-images.githubusercontent.com/104252631/174271513-7cc7aeaf-ccbf-45f4-8378-a9170af747a6.png))
+![image](![image](https://user-images.githubusercontent.com/104252631/174271733-c4035b10-8b89-4214-800e-7c2919af2ab3.png))

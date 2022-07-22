@@ -5,5 +5,12 @@ how to write hello world in C/C++
 
 how to write hello world  in C
 ```C
-printf("hello world");
+printf("Hello world");
+```
+and
+how to write hello world in C++
+```Cpp
+cout<<"Hello world";
+// and 
+std::cout<<"Hello world";
 ```

@@ -15,6 +15,16 @@ cout<<"Hello world";
 std::cout<<"Hello world";
 ```
 
+> C "Hello, World!" program
+```C
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+
+```
+> C++ "Hello, World!" program
 ```C++
 #include <iostream>
 
